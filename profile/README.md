@@ -1,12 +1,30 @@
-## Hi there 👋
+<!-- markdownlint-configure-file { "MD004": { "style": "consistent" } } -->
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+    <a href="https://morethanrobotsfr.github.io/MoreThanRobots/">
+        <img src="https://github.com/MoreThanRobotsFR/MTRIndex/blob/main/ImageIndex/Orichalque%20F.png?raw=true" width="200" height="200" alt="MTR">
+    </a>
+    <br>
+    <strong>Coding, Hardware and fun !</strong>
+</p>
+<!-- markdownlint-enable MD033 -->
 
-<!--
+<body style="background-color:#AFFEFE;">
+</body>
 
-**Here are some ideas to get you started:**
+# MoreThanRobots
+* Check the english [YOUTUBE-EN](https://www.youtube.com/channel/UC0gk0hdr1J1DwsJI9lflnPQ) channel.
+* La chaîne [YOUTUBE-FR](https://www.youtube.com/channel/UC-wviZj4bWYMKWNP7vLX6Uw) en français.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Coding
+* C/C++
+* Python
+* MicroPython
+* CircuitPython 
+
+# Hardward
+* Arduino Uno
+* Arduino Mega
+* Arduino Nano
+* Raspberry Pi / Pico / RP2040
+* NodeMCU ESP8266 / ESP32
