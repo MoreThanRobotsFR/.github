@@ -23,8 +23,6 @@
 * CircuitPython 
 
 # Hardward
-* Arduino Uno
-* Arduino Mega
-* Arduino Nano
+* Arduino Uno / Mega / Nano
 * Raspberry Pi / Pico / RP2040
 * NodeMCU ESP8266 / ESP32
