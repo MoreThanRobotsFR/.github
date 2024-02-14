@@ -13,8 +13,7 @@
 </body>
 
 # MoreThanRobots
-* Check the english [YOUTUBE-EN](https://www.youtube.com/channel/UC0gk0hdr1J1DwsJI9lflnPQ) channel.
-* La chaîne [YOUTUBE-FR](https://www.youtube.com/channel/UC-wviZj4bWYMKWNP7vLX6Uw) en français.
+* Check the [YOUTUBE-EN-FR](https://www.youtube.com/@morethanrobots) channel.
 
 # Coding
 * C/C++
@@ -26,6 +25,10 @@
 * Arduino Uno / Mega / Nano
 * Raspberry Pi / Pico / RP2040
 * NodeMCU ESP8266 / ESP32
+
+# Schematic
+* Kicad
+* Altium designer
 
 # Last Project
 * [MTR Reflow Plate](https://github.com/MoreThanRobotsFR/MTR_Reflow_Plate)
