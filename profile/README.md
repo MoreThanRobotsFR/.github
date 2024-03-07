@@ -33,6 +33,6 @@
 # Last Project
 * [MTR Reflow Plate](https://github.com/MoreThanRobotsFR/MTR_Reflow_Plate)
 * [MTR Tiny MD](https://github.com/MoreThanRobotsFR/MTR_Tiny_MD)
-* [MTR Tiny MD](https://github.com/MoreThanRobotsFR/MTR_C3_TempHum)
+* [MTR Multisensor](https://github.com/MoreThanRobotsFR/MTR_C3_TempHum)
   
 
